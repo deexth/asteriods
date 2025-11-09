@@ -1,3 +1,3 @@
 # Asteroids
 
-Asteriods is my second [boot.dev](Boot.dev) project!
+Asteriods is my second [Boot.dev](boot.dev) project!
